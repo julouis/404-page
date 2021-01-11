@@ -1,0 +1,25 @@
+@font-face {
+    font-family: PressStart2P;
+    src: url(PressStart2P-Regular.ttf);
+  }
+
+body {
+    text-align: center;
+    width: 700px;
+    margin: auto;
+    background-color:ivory;
+}
+
+h1 {
+    font-family: PressStart2P;
+    font-size: 50px;
+    box-shadow: 2px 2px 2px 2px;
+    width: fit-content;
+    background-color: khaki;
+}
+
+figcaption {
+    font-style: italic;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: small;
+}
